@@ -23,8 +23,8 @@ export function Contact() {
     {
       icon: Github,
       label: "GitHub",
-      value: "/oliveiraalisson",
-      href: "https://github.com/oliveiraalisson",
+      value: "/alissonmichel",
+      href: "https://github.com/alissonmichel",
       color: "text-gray-800 dark:text-gray-200"
     },
     {
